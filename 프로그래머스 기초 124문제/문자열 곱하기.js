@@ -6,3 +6,4 @@ function solution(my_string, k) {
         }
    return ans;
 }
+ 
